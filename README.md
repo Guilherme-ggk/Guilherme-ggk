@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guilherme and I'm a Rolândia, from Paraná</h2>
+<h2 align="left">Hi 👋! Meu nome is Guilherme and I'm a Rolândia, from Paraná</h2>
 
 ###
 
